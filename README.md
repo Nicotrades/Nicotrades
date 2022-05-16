@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nicotrades
-- 👀 I’m interested in dev. Agritoken.farm website
+- 👀 I’m interested in Agritoken.farm website
 - 🌱 I’m currently learning Solidity
 - 💞️ I’m looking to collaborate on Solidity dev.
 - 📫 How to reach me ceo@agritoken.farm
